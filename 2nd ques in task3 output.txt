@@ -1,0 +1,29 @@
+Enter Employee ID: 
+1
+
+Enter Employee Name: 
+Makitha
+
+Enter Employee Salary: 
+40000
+
+empId:1
+name:Makitha
+salary:40000.0
+Income Tax for 4200.0
+
+Enter Product ID: 
+2
+
+Enter Product Price: 
+3000
+
+Enter Product Quantity: 
+4
+
+pid:2
+price:3000.0
+quantity:4
+Sales Tax for Product ID 210.00000000000003
+
+Process finished with exit code 0

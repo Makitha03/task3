@@ -1,0 +1,61 @@
+Library Menu:
+
+1. Add Book
+2. Replace Book
+3. Display Books
+4. Exit
+
+Enter your choice: 1
+Enter Book ID: 2
+Enter Title: you can win
+Enter Author: Shiv Khera
+Book added: BookID: 2, Title: you can win, Author: Shiv Khera, Available: true
+
+Library Menu:
+
+1. Add Book
+2. Replace Book
+3. Display Books
+4. Exit
+
+Enter your choice: 1
+Enter Book ID: 4
+Enter Title: wings of fire
+Enter Author: robert B.cladini
+Book added: BookID: 4, Title: wings of fire, Author: robert B.cladini, Available: true
+
+Library Menu:
+
+1. Add Book
+2. Replace Book
+3. Display Books
+4. Exit
+
+Enter your choice: 2
+Enter Book ID to replace: 4
+Enter new Title: wings of fire
+Enter new Author: Dr.A.P.J Abdul kalam
+Book replaced: BookID: 4, Title: wings of fire, Author: Dr.A.P.J Abdul kalam, Available: true
+
+Library Menu:
+
+1. Add Book
+2. Replace Book
+3. Display Books
+4. Exit
+
+Enter your choice: 3
+BookID: 2, Title: you can win, Author: Shiv Khera, Available: true
+BookID: 4, Title: wings of fire, Author: Dr.A.P.J Abdul kalam, Available: true
+
+Library Menu:
+
+1. Add Books
+2. Replace Book
+3. Display Books
+4. Exit
+
+Enter your choice: 4
+Exiting...
+
+Process finished with exit code 0
